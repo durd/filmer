@@ -30,7 +30,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Spaceballs](https://www.imdb.com/title/tt0094012) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Robin Hood: Men in Tights](https://www.imdb.com/title/tt0107977) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Airplane!](https://www.imdb.com/title/tt0080339) | :x: | :x: | :x: | :heavy_check_mark: |
-| [The Matrix](https://www.imdb.com/title/tt0133093) | :x: | :x: | :x: | ✔️: |
+| [The Matrix](https://www.imdb.com/title/tt0133093) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Little Shop of Horrors](https://www.imdb.com/title/tt0091419) | :x: | :x: | :x: | :x: |
 | [Gremlins](https://www.imdb.com/title/tt0087363) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :x: | :heavy_check_mark: |
