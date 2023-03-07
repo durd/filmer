@@ -22,8 +22,8 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [The Hobbit: An Unexpected Journey](https://www.imdb.com/title/tt0903624) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Hobbit: The Battle of the Five Armies](https://www.imdb.com/title/tt2310332) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [RoboCop](https://www.imdb.com/title/tt0093870) | :x: | :x: | :x: | :heavy_check_mark: |
-| [The Terminator](https://www.imdb.com/title/tt0088247) | :x: | :x: | :x: | :heavy_check_mark: |
+| [RoboCop](https://www.imdb.com/title/tt0093870) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [The Terminator](https://www.imdb.com/title/tt0088247) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Dredd](https://www.imdb.com/title/tt1343727) | :x: | :x: | :heavy_check_mark: | :x: |
 | [Dune](https://www.imdb.com/title/tt1160419) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
