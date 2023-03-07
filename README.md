@@ -56,3 +56,5 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Pulp Fiction](https://www.imdb.com/title/tt0110912) | :x: | :x: | :x: | :heavy_check_mark: |
+| [Sneakers](https://www.imdb.com/title/tt0105435) | :x: | :x: | :x: | :x: |
+| [A Clockwork Orange](https://www.imdb.com/title/tt0066921) | :x: | :x: | :x: | :x: |
