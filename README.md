@@ -46,7 +46,6 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Police Academy 3: Back in Training](https://www.imdb.com/title/tt0091777) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Police Academy 4: Citizens on Patrol](https://www.imdb.com/title/tt0093756) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Police Academy: Mission to Moscow](https://www.imdb.com/title/tt0110857) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Good, The Bad and the Ugly](https://www.imdb.com/title/tt0060196) | :x: | :x: | :heavy_check_mark: | :x: |
 | [The Shawshank Redemption](https://www.imdb.com/title/tt0111161) | :x: | :x: | :heavy_check_mark: | :x: |
 | [The Silence of the Lambs](https://www.imdb.com/title/tt0102926) | :x: | :x: | :heavy_check_mark: | :x: |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815) | :x: | :x: | :heavy_check_mark: | :x: |
