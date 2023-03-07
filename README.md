@@ -6,7 +6,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 
 | Film | Orvar | Adam | Per | IMDB |
 | :--- | :---: | :---: | :---: | :---: |
-| <titel> | :x: | :x: | :x: | <imdb-länk> |
+| `<titel>` | :x: | :x: | :x: | <imdb-länk> |
 | Life of Brian | :x: | :x: | :x: | https://www.imdb.com/title/tt0079470 |
 | Monty Python's Flying Circus | :x: | :x: | :x: | https://www.imdb.com/title/tt0063929 |
 | Monty Python and the Holy Grail | :x: | :x: | :x: | https://www.imdb.com/title/tt0071853 |
