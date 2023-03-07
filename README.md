@@ -62,3 +62,4 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622) | :x: | :x: | :x: | :x: |
 | [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :x: | :heavy_check_mark: |
 | [Full Metal Jacket](https://www.imdb.com/title/tt0106856) | :x: | :x: | :x: | :x: |
+| [Blade Runner](https://www.imdb.com/title/tt0083658) | :x: | :x: | :x: | :x: |
