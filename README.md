@@ -9,6 +9,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | Life of Brian | :x: | :x: | :x: | https://www.imdb.com/title/tt0079470 |
 | Monty Python's Flying Circus | :x: | :x: | :x: | https://www.imdb.com/title/tt0063929 |
 | Monty Python and the Holy Grail | :x: | :x: | :x: | https://www.imdb.com/title/tt0071853 |
+| Monty Python's Meaning of Life | :x: | :x: | :x: | https://www.imdb.com/title/tt0085959 |
 | Alien | :x: | :x: | :x: | https://www.imdb.com/title/tt0078748 |
 | Aliens | :x: | :x: | :x: | https://www.imdb.com/title/tt0090605 |
 | Alien 3 | :x: | :x: | :x: | https://www.imdb.com/title/tt0103644 |
@@ -24,8 +25,11 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | Dredd | :x: | :x: | :x: | https://www.imdb.com/title/tt1343727 |
 | Dune | :x: | :heavy_check_mark: | :x: | https://www.imdb.com/title/tt1160419 |
 | Starship Troopers | :x: | :x: | :x: | https://www.imdb.com/title/tt0120201 |
-| Blazing Sadles | :x: | :x: | :x: | - |
-| Spaceballs | :x: | :x: | :x: | - |
-| Robin Hood: Men in Tights | :x: | :x: | :x: | - |
-| Airplane! | :x: | :x: | :x: | - |
-| The Matrix | :x: | :x: | :x: | - |
+| Blazing Sadles | :x: | :x: | :x: | https://www.imdb.com/title/tt0071230 |
+| Spaceballs | :x: | :x: | :x: | https://www.imdb.com/title/tt0094012 |
+| Robin Hood: Men in Tights | :x: | :x: | :x: | https://www.imdb.com/title/tt0107977 |
+| Airplane! | :x: | :x: | :x: | https://www.imdb.com/title/tt0080339 |
+| The Matrix | :x: | :x: | :x: | https://www.imdb.com/title/tt0133093 |
+| Little Shop of Horrors | :x: | :x: | :x: | https://www.imdb.com/title/tt0091419 |
+| Gremlins | :x: | :x: | :x: | https://www.imdb.com/title/tt0087363 |
+| Gremlins 2 - Det nya gänget | :x: | :x: | :x: | https://www.imdb.com/title/tt0099700 |
