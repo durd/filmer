@@ -1,5 +1,5 @@
 # filmer
-Filmer för Orvar och Arvid att se.
+Filmer för Orvar och Arvid att se. Tänk kult och klassiker, eller kultklassiker!
 
 Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 
