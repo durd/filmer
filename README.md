@@ -1,5 +1,5 @@
 # filmer
-Filmer för Orvar och Arvid att se. Tänk kult och klassiker, eller kultklassiker!
+Filmer för Orvar och Adam att se. Tänk kult och klassiker, eller kultklassiker!
 
 Andra får också addera sig själva.
 
