@@ -38,4 +38,4 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | Star Wars 5 | :x: | :x: | :x: | <imdb-länk> |
 | Star Wars 6 | :x: | :x: | :x: | <imdb-länk> |
 | Star Wars: Rogue One | :x: | :x: | :x: | <imdb-länk> |
-| The Good, The Bad and the Ugly | :x: | :x: | :x: | <imdb-länk> |
+| The Good, The Bad and the Ugly | :x: | :x: | :x: | https://www.imdb.com/title/tt0060196 |
