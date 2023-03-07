@@ -47,10 +47,10 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Police Academy 4: Citizens on Patrol](https://www.imdb.com/title/tt0093756) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Police Academy: Mission to Moscow](https://www.imdb.com/title/tt0110857) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Shawshank Redemption](https://www.imdb.com/title/tt0111161) | :x: | :x: | :heavy_check_mark: | :x: |
-| [The Silence of the Lambs](https://www.imdb.com/title/tt0102926) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Saving Private Ryan](https://www.imdb.com/title/tt0120815) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Back to the Future](https://www.imdb.com/title/tt0088763) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Psycho](https://www.imdb.com/title/tt0054215) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Léon](https://www.imdb.com/title/tt0110413) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :x: |
-| [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :x: |
+| [The Silence of the Lambs](https://www.imdb.com/title/tt0102926) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Saving Private Ryan](https://www.imdb.com/title/tt0120815) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Back to the Future](https://www.imdb.com/title/tt0088763) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Psycho](https://www.imdb.com/title/tt0054215) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Léon](https://www.imdb.com/title/tt0110413) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
