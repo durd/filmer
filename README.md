@@ -54,3 +54,5 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Léon](https://www.imdb.com/title/tt0110413) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :x: | :heavy_check_mark: |
+| [Pulp Fiction](https://www.imdb.com/title/tt0110912) | :x: | :x: | :x: | :heavy_check_mark: |
