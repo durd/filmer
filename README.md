@@ -59,3 +59,6 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Sneakers](https://www.imdb.com/title/tt0105435) | :x: | :x: | :x: | :x: |
 | [A Clockwork Orange](https://www.imdb.com/title/tt0066921) | :x: | :x: | :x: | :x: |
 | [Falling Down](https://www.imdb.com/title/tt0106856) | :x: | :x: | :x: | :heavy_check_mark: |
+| [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622) | :x: | :x: | :x: | :x: |
+| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :x: | :heavy_check_mark: |
+| [Full Metal Jacket](https://www.imdb.com/title/tt0106856) | :x: | :x: | :x: | :x: |
