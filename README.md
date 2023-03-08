@@ -36,10 +36,10 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Little Shop of Horrors](https://www.imdb.com/title/tt0091419) | :x: | :x: | :x: | :x: |
 | [Gremlins](https://www.imdb.com/title/tt0087363) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Star Wars: A New Hope](https://www.imdb.com/title/tt0076759) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Star Wars: Return of the Jedi](https://www.imdb.com/title/tt0086190) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Star Wars: A New Hope](https://www.imdb.com/title/tt0076759) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Star Wars: Return of the Jedi](https://www.imdb.com/title/tt0086190) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Good, The Bad and the Ugly](https://www.imdb.com/title/tt0060196) | :x: | :x: | :heavy_check_mark: | :x: |
 | [Police Academy](https://www.imdb.com/title/tt0087928) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Police Academy 2: Their First Assignment](https://www.imdb.com/title/tt0060196) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
