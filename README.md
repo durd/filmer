@@ -54,12 +54,12 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Léon](https://www.imdb.com/title/tt0110413) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :x: | :heavy_check_mark: |
-| [Pulp Fiction](https://www.imdb.com/title/tt0110912) | :x: | :x: | :x: | :heavy_check_mark: |
+| [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Pulp Fiction](https://www.imdb.com/title/tt0110912) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Sneakers](https://www.imdb.com/title/tt0105435) | :x: | :x: | :x: | :x: |
 | [A Clockwork Orange](https://www.imdb.com/title/tt0066921) | :x: | :x: | :x: | :x: |
-| [Falling Down](https://www.imdb.com/title/tt0106856) | :x: | :x: | :x: | :heavy_check_mark: |
+| [Falling Down](https://www.imdb.com/title/tt0106856) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622) | :x: | :x: | :x: | :x: |
-| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :x: | :heavy_check_mark: |
-| [Full Metal Jacket](https://www.imdb.com/title/tt0106856) | :x: | :x: | :x: | :x: |
+| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Full Metal Jacket](https://www.imdb.com/title/tt0106856) | :x: | :x: | :heavy_check_mark: | :x: |
 | [Blade Runner](https://www.imdb.com/title/tt0083658) | :x: | :x: | :x: | :heavy_check_mark: |
