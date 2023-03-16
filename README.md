@@ -6,9 +6,10 @@ Andra får också addera sig själva.
 Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 
 
-| Film | Orvar | Adam | Per | David |
-| :--- | :---: | :---: | :---: | :---: |
+| Film | Orvar | Adam | Per | David | Thomas
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | `[<titel>](<imdb-länk>)` | :x: | :x: | :x: | :heavy_check_mark: |
+=======
 | 0-9 |  |  |  |  |
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622) | :x: | :x: | :x: | :x: |
 | A |  |  |  |  |
