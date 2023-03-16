@@ -8,7 +8,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 
 | Film | Orvar | Adam | Per | David | Thomas
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `[<titel>](<imdb-länk>)` | :x: | :x: | :x: | :heavy_check_mark: |
+| `[<titel>](<imdb-länk>)` | :x: | :x: | :x: | :heavy_check_mark: |:x: |
 | 0-9 |  |  |  |  |
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | A |  |  |  |  |
@@ -34,7 +34,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Ghostbusters](https://www.imdb.com/title/tt0087332) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gremlins](https://www.imdb.com/title/tt0087363) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |:x: |
 | H |  |  |  |  |
 | I |  |  |  |  |
 | J |  |  |  |  |
@@ -63,7 +63,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Psycho](https://www.imdb.com/title/tt0054215) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Pulp Fiction](https://www.imdb.com/title/tt0110912) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Q |  |  |  |  |
-| R |  |  |  |  | :heavy_check_mark: |
+| R |  |  |  |  |
 | [Robin Hood: Men in Tights](https://www.imdb.com/title/tt0107977) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [RoboCop](https://www.imdb.com/title/tt0093870) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
