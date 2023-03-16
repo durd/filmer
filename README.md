@@ -17,6 +17,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Alien](https://www.imdb.com/title/tt0078748) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Aliens](https://www.imdb.com/title/tt0090605) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Alien 3](https://www.imdb.com/title/tt0103644) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [Apocalypse Now](https://www.imdb.com/title/tt0078788) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | B |  |  |  |  |
 | [Back to the Future](https://www.imdb.com/title/tt0088763) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Blade Runner](https://www.imdb.com/title/tt0083658) | :x: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
@@ -53,6 +54,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Monty Python's Meaning of Life](https://www.imdb.com/title/tt0085959) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | N |  |  |  |  |
+| [Nikita](https://www.imdb.com/title/tt0100263) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | O |  |  |  |  |
 | P |  |  |  |  |
 | [Police Academy](https://www.imdb.com/title/tt0087928) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
