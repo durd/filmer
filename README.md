@@ -38,7 +38,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |:x: |
 | H |  |  |  |  |
 | I |  |  |  |  |
-| `[In Time](https://www.imdb.com/title/tt1637688/)` | :heavy_check_mark: | :x: | :x: | :x: |:x: |
+| [In Time](https://www.imdb.com/title/tt1637688/) | :heavy_check_mark: | :x: | :x: | :x: |:x: |
 | J |  |  |  |  |
 | [Jägarna](https://www.imdb.com/title/tt0116736) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | K |  |  |  |  |
