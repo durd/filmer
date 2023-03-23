@@ -98,4 +98,5 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Watchmen](https://www.imdb.com/title/tt0409459) | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | X |  |  |  |  |
 | Y |  |  |  |  |
+| [Yrrol](https://www.imdb.com/title/tt0111807) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | Z |  |  |  |  |
