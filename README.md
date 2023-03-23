@@ -68,6 +68,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | Q |  |  |  |  |
 | R |  |  |  |  |
 | [Robin Hood: Men in Tights](https://www.imdb.com/title/tt0107977) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [Firstblood: Rambo](https://www.imdb.com/title/tt0083944) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [RoboCop](https://www.imdb.com/title/tt0093870) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | S |  |  |  |  |
