@@ -19,6 +19,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Alien 3](https://www.imdb.com/title/tt0103644) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Apocalypse Now](https://www.imdb.com/title/tt0078788) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | B |  |  |  |  |
+| [The Big Short](https://www.imdb.com/title/tt1596363) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | [Back to the Future](https://www.imdb.com/title/tt0088763) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Blade Runner](https://www.imdb.com/title/tt0083658) | :x: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Blazing Sadles](https://www.imdb.com/title/tt0071230) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -51,6 +52,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [LOTR: The Two Towers](https://www.imdb.com/title/tt0167261) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [LOTR: The Return of the King](https://www.imdb.com/title/tt0167260) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | M |  |  |  |  |
+| [Margin Call](https://www.imdb.com/title/tt1615147) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | [Monty Python's Flying Circus](https://www.imdb.com/title/tt0063929) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Monty Python's Meaning of Life](https://www.imdb.com/title/tt0085959) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
