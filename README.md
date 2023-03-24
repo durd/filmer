@@ -25,6 +25,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Blazing Sadles](https://www.imdb.com/title/tt0071230) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | C |  |  |  |  |
 | D |  |  |  |  |
+| [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Dredd](https://www.imdb.com/title/tt1343727) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | [Dune](https://www.imdb.com/title/tt1160419) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | E |  |  |  |  |
@@ -37,7 +38,11 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Gladiator](https://www.imdb.com/title/tt0172495) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gremlins](https://www.imdb.com/title/tt0087363) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Gremlins 2: The New Batch](https://www.imdb.com/title/tt0099700) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |:x: |
+| [The Good, The Bad and the Ugly](https://www.imdb.com/title/tt0060196) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | H |  |  |  |  |
+| [The Hobbit: An Unexpected Journey](https://www.imdb.com/title/tt0903624) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: 
+| [The Hobbit: The Battle of the Five Armies](https://www.imdb.com/title/tt2310332) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | I |  |  |  |  |
 | [In Time](https://www.imdb.com/title/tt1637688/) | :heavy_check_mark: | :x: | :x: | :x: | :heavy_check_mark: |
 | J |  |  |  |  |
@@ -56,6 +61,7 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Monty Python's Flying Circus](https://www.imdb.com/title/tt0063929) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Monty Python's Meaning of Life](https://www.imdb.com/title/tt0085959) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [The Matrix](https://www.imdb.com/title/tt0133093) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | N |  |  |  |  |
 | [Nikita](https://www.imdb.com/title/tt0100263) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | O |  |  |  |  |
@@ -75,22 +81,17 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | S |  |  |  |  |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [The Silence of the Lambs](https://www.imdb.com/title/tt0102926) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Sneakers](https://www.imdb.com/title/tt0105435) | :x: | :x: | :x: | :x: | :heavy_check_mark: |
+| [The Shawshank Redemption](https://www.imdb.com/title/tt0111161) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Spaceballs](https://www.imdb.com/title/tt0094012) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Star Wars: A New Hope](https://www.imdb.com/title/tt0076759) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Star Wars: Return of the Jedi](https://www.imdb.com/title/tt0086190) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Starship Troopers](https://www.imdb.com/title/tt0120201) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | T |  |  |  |  |
-| [The Dark Knight](https://www.imdb.com/title/tt0468569) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Good, The Bad and the Ugly](https://www.imdb.com/title/tt0060196) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| [The Hobbit: An Unexpected Journey](https://www.imdb.com/title/tt0903624) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Hobbit: The Battle of the Five Armies](https://www.imdb.com/title/tt2310332) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Matrix](https://www.imdb.com/title/tt0133093) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Shawshank Redemption](https://www.imdb.com/title/tt0111161) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [The Silence of the Lambs](https://www.imdb.com/title/tt0102926) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Terminator](https://www.imdb.com/title/tt0088247) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064) | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [The Thing](https://www.imdb.com/title/tt0084787) | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
