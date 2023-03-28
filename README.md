@@ -88,7 +88,6 @@ Använd `:heavy_check_mark:` eller `:x:` för att markera sett eller inte.
 | [Spaceballs](https://www.imdb.com/title/tt0094012) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Star Wars: A New Hope](https://www.imdb.com/title/tt0076759) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Star Wars: The Empire Strikes Back](https://www.imdb.com/title/tt0080684) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-| [The Shining](https://www.imdb.com/title/tt0081505) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Star Wars: Return of the Jedi](https://www.imdb.com/title/tt0086190) | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Starship Troopers](https://www.imdb.com/title/tt0120201) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | T |  |  |  |  |
